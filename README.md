@@ -1,6 +1,6 @@
 # video-streaming-react
 
-#an app with React/Redux (using: React Router/ OATH based authentication/ Forms and Redux Form/ REST-ful conventions/ Switches with React-Router/ React Fragments/ ...) 
+#An app with React/Redux (using: React Router/ OATH based authentication/ Forms and Redux Form/ REST-ful conventions/ Switches with React-Router/ React Fragments/ ...) 
 
 #a clone of a web application called "https://www.twitch.tv/" 
 
