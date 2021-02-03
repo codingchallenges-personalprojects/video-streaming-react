@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "this is a great post",
+      "description": "ok",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "description": "this is amazing",
+      "userId": "111348629376356312466",
+      "id": 5
+    },
+    {
+      "title": "hi",
+      "description": "how are you",
+      "userId": "111348629376356312466",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "description": "hi",
+      "userId": "111348629376356312466",
+      "id": 8
+    },
+    {
+      "title": "Hi There!",
+      "description": "How are you doing?",
+      "userId": "111348629376356312466",
+      "id": 9
+    }
+  ]
+}
